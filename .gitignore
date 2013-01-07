@@ -11,6 +11,8 @@
 *~
 *.sass-cache
 
+perch *
+
 # OS or Editor folders
 .DS_Store
 ._*
